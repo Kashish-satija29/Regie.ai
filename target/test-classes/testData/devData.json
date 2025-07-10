@@ -1,0 +1,14 @@
+{
+  "validLogin": {
+    "email": "kaishsatija@gmail.com",
+    "password": "12345678"
+  },
+  "invalidPassword": {
+    "email": "kaishsatija@gmail.com",
+    "password": "wrongpass"
+  },
+  "invalidEmail": {
+    "email": "wronguser@example.com",
+    "password": "12345678"
+  }
+}
