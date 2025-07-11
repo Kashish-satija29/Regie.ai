@@ -66,7 +66,7 @@ It demonstrates:
 
 ## Setup & Prerequisites
 # 1. Clone the repo
-git clone https://github.com/<your‑handle>/<repo>.git
+git clone git@github.com:Kashish-satija29/Regie.ai.git
 cd <repo>
 
 # 2. Ensure JDK 11+ & Maven installed
