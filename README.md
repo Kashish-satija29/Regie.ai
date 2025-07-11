@@ -27,7 +27,12 @@ It demonstrates:
 - Page Object Model (POM) for UI pages  
 - Reusable API page classes & POJOs  
 - Positive + negative test scenarios  
-- Unified Extent report for all layers  
+- Unified Extent report for all layers
+
+  ApiTestNg.xml:- Api suite test cases
+  testng.xml:- UI suite test cases 
+
+**NOTE:_ Better to clone repo in intelij and run above 2 above mentioned files only & for report go to reports-> extentReport.html and open in any browser , also visit screenshots to check all the screenshots**
 
 ---
 
